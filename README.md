@@ -1,1 +1,1 @@
-# repositorio para practicar git pull
+# repositorio para practicar git pull - Juan Gabriel Lassalle
